@@ -1,0 +1,14 @@
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/bin/Debug/net8.0/ToDo_List
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/bin/Debug/net8.0/ToDo_List.deps.json
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/bin/Debug/net8.0/ToDo_List.runtimeconfig.json
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/bin/Debug/net8.0/ToDo_List.dll
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/bin/Debug/net8.0/ToDo_List.pdb
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/obj/Debug/net8.0/ToDo_List.GeneratedMSBuildEditorConfig.editorconfig
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/obj/Debug/net8.0/ToDo_List.AssemblyInfoInputs.cache
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/obj/Debug/net8.0/ToDo_List.AssemblyInfo.cs
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/obj/Debug/net8.0/ToDo_List.csproj.CoreCompileInputs.cache
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/obj/Debug/net8.0/ToDo_List.dll
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/obj/Debug/net8.0/refint/ToDo_List.dll
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/obj/Debug/net8.0/ToDo_List.pdb
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/obj/Debug/net8.0/ToDo_List.genruntimeconfig.cache
+/home/vagif/REPOS/C_sharp_advanced_masterclass/ToDo_List/ToDo_List/obj/Debug/net8.0/ref/ToDo_List.dll
